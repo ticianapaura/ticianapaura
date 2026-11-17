@@ -1,8 +1,8 @@
 ## Ticiana Paura
 
-**Senior Product Designer · AI-assisted front end on designs made with AI agents**
+**Senior Product Designer · I design the experience between AI agent, user and system, and build it as an AI-assisted front end**
 
-I design in a loop with AI agents: I set the problem, the users, the criteria and the decisions, and the agents explore, generate and iterate. Then I take those designs to code as an AI-assisted front end in React and TypeScript, and I review and test what ships.
+I design what happens between an AI agent, the person using it and the system behind it: what the agent can do, when the person stays in control, and how the system shows state, errors and handoffs. Then I build it as an AI-assisted front end in React and TypeScript, and I review and test what ships.
 
 Here you'll find the front-end side of that work: live demos you can play with, and the code behind them.
 
@@ -18,7 +18,7 @@ Here you'll find the front-end side of that work: live demos you can play with, 
 
 ### How I work
 
-- **Designed with AI agents.** The agents explore layouts, states and copy; I choose, refine and own the result.
+- **Agent, user and system.** What the agent answers, when it asks, when a person takes over, and how the system confirms every step.
 - **AI-assisted front end.** AI coding assistants help me go from design to working React and TypeScript. Structure, states, accessibility and the final review stay with me.
 - **Every state, not just the happy path.** Errors, empty states, timeouts and handoffs are built in code, on design tokens and reusable components.
 
