@@ -1,10 +1,12 @@
 ## Ticiana Paura
 
-**Senior Product Designer · I design the experience between AI agent, user and system, and build it as an AI-assisted front end**
+**Agent Experience Design (AXD) · Human-AI Interaction · Design Engineering**
 
-I design what happens between an AI agent, the person using it and the system behind it: what the agent can do, when the person stays in control, and how the system shows state, errors and handoffs. Then I build it as an AI-assisted front end in React and TypeScript, and I review and test what ships.
+I'm Ticiana, a Senior AI Product Designer with 8+ years of UX experience.
 
-Here you'll find the front-end side of that work: live demos you can play with, and the code behind them.
+I design human-AI interactions, conversational experiences, and agentic workflows, then turn my UX/UI designs into functional, navigable prototypes using Claude Code, React, and TypeScript.
+
+Here you'll find the working front-end behind my design projects. For UX case studies and visual design, visit my [Behance portfolio](https://www.behance.net/ticianne).
 
 **Portfolio:** [ticianapaura.github.io](https://ticianapaura.github.io)
 
@@ -12,9 +14,9 @@ Here you'll find the front-end side of that work: live demos you can play with, 
 
 | Project | What it is | Demo | Code |
 |---|---|---|---|
-| Hosted Checkout · White Label | A 3-step card payment flow any merchant can re-skin with their brand. Fintech, responsive. | [Live demo](https://ticianapaura.github.io/checkout-ux-ui/) | [checkout-ux-ui](https://github.com/ticianapaura/checkout-ux-ui) |
-| Tammy AI Assistant · White Label | An AI assistant for fintech portals: the AI conversation and the handoff to a live agent. 18 playable flows. | [AI conversation](https://ticianapaura.github.io/tammy-ai-assistant/ai-conversation/) · [Live agent](https://ticianapaura.github.io/tammy-ai-assistant/live-agent/) | [tammy-ai-assistant](https://github.com/ticianapaura/tammy-ai-assistant) |
-| CargoPilot AI · New Booking Flow | A new booking flow for air freight shipments, from cargo type to live tracking. 16 playable flows. Fictional brand. | [Live demo](https://ticianapaura.github.io/latam-cargo-booking/) | [latam-cargo-booking](https://github.com/ticianapaura/latam-cargo-booking) |
+| CargoPilot AI · New Booking Flow | A new booking flow for air freight shipments, from cargo type to live tracking. 16 playable flows, edge cases included. Agent, user and system experience with an AI-assisted front end. Fictional brand. | [Live demo](https://ticianapaura.github.io/latam-cargo-booking/) | [latam-cargo-booking](https://github.com/ticianapaura/latam-cargo-booking) |
+| AI Conversation with Tammy · White Label | Built for Paysafe's portals. The AI side of a white-label assistant: answers with links, quick replies, a character limit and every error with its way out. 9 playable flows. | [Live demo](https://ticianapaura.github.io/tammy-ai-assistant/ai-conversation/) | [ai-conversation-with-tamy](https://github.com/ticianapaura/tammy-ai-assistant/tree/main/source/ai-conversation-with-tamy) |
+| Live Agent Handoff · White Label | Built for Paysafe's portals. When the AI can't solve it, the chat moves to a person: connecting, agents busy, end of session and a satisfaction survey. 9 playable flows, QA'd with Playwright. | [Live demo](https://ticianapaura.github.io/tammy-ai-assistant/live-agent/) | [live-agent](https://github.com/ticianapaura/tammy-ai-assistant/tree/main/source/live-agent) |
 
 ### How I work
 
