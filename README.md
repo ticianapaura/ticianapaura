@@ -14,9 +14,9 @@ Here you'll find the working front-end behind my design projects. For UX case st
 
 | Project | What it is | Demo | Code |
 |---|---|---|---|
-| CargoPilot AI · New Booking Flow | A new booking flow for air freight shipments, from cargo type to live tracking. 16 playable flows, edge cases included. Agent, user and system experience with an AI-assisted front end. Fictional brand. | [Live demo](https://ticianapaura.github.io/latam-cargo-booking/) | [latam-cargo-booking](https://github.com/ticianapaura/latam-cargo-booking) |
-| AI Conversation with Tammy · White Label | Built for Paysafe's portals. The AI side of a white-label assistant: answers with links, quick replies, a character limit and every error with its way out. 9 playable flows. | [Live demo](https://ticianapaura.github.io/tammy-ai-assistant/ai-conversation/) | [ai-conversation-with-tamy](https://github.com/ticianapaura/tammy-ai-assistant/tree/main/source/ai-conversation-with-tamy) |
-| Live Agent Handoff · White Label | Built for Paysafe's portals. When the AI can't solve it, the chat moves to a person: connecting, agents busy, end of session and a satisfaction survey. 9 playable flows, QA'd with Playwright. | [Live demo](https://ticianapaura.github.io/tammy-ai-assistant/live-agent/) | [live-agent](https://github.com/ticianapaura/tammy-ai-assistant/tree/main/source/live-agent) |
+| CargoPilot AI · New Booking Flow | A new booking flow for air freight, from cargo type to live tracking. Sixteen playable flows, edge cases included. Agent, user and system experience. Fictional brand. | [Live demo](https://ticianapaura.github.io/latam-cargo-booking/) | [latam-cargo-booking](https://github.com/ticianapaura/latam-cargo-booking) |
+| AI Conversation with Tammy · White Label | Built for Paysafe's portals. The AI side of a white-label assistant: answers with links, quick replies, a character limit and every error with its way out. Nine playable flows. | [Live demo](https://ticianapaura.github.io/tammy-ai-assistant/ai-conversation/) | [ai-conversation-with-tamy](https://github.com/ticianapaura/tammy-ai-assistant/tree/main/source/ai-conversation-with-tamy) |
+| Live Agent Handoff · White Label | Built for Paysafe's portals. When the AI can't solve it, the chat moves to a person: connecting, busy agents, end of session and a satisfaction survey. Nine playable flows. | [Live demo](https://ticianapaura.github.io/tammy-ai-assistant/live-agent/) | [live-agent](https://github.com/ticianapaura/tammy-ai-assistant/tree/main/source/live-agent) |
 
 ### How I work
 
