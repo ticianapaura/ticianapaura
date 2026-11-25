@@ -24,7 +24,7 @@ Here you'll find the working front-end behind my design projects. For UX case st
 - **AI-assisted front end.** AI coding assistants help me go from design to working React and TypeScript. Structure, states, accessibility and the final review stay with me.
 - **Every state, not just the happy path.** Errors, empty states, timeouts and handoffs are built in code, on design tokens and reusable components.
 
-**Toolkit:** React · TypeScript · CSS Modules · Design tokens · Vite · Playwright · Accessibility · Figma · Claude Code
+**Toolkit:** React · TypeScript · CSS Modules · Design tokens · Vite · Playwright · Vercel · Accessibility · Figma · Claude Code
 
 **Industries:** fintech · banking · gaming · government · healthcare · logistics
 
